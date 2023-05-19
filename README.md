@@ -5,7 +5,6 @@ The R Programming Summer Workshop is an intensive learning program designed to p
 
 # Day 1: May 22 - Introduction to R Programming Language 
 9:00 AM - 9:15 AM: Welcome and Introduction by Aaron Zerhusen, Project Director, MSEIP Grant
-
 9:15 AM - 10:15 AM: Ice Breaker Session by Steph Viruet, Academic Success Coordinator 
 10:15 AM - 10:30 AM: Break 
 10:30 AM - 12:00 PM: Introduction to R and its benefits for data analysis. Installation and setup of R and RStudio. Familiarization with RStudio interface. 
