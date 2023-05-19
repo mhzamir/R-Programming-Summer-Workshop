@@ -45,11 +45,11 @@ The R Programming Summer Workshop is an intensive learning program designed to p
 4:00 PM - 5:00 PM: Q&A session and group discussion     
 
 # Day 5: May 26 - Project Work and Reflection 
-9:00 AM - 12:00 PM: Working on a real-life data analysis project using R  
-12:00 PM - 1:00 PM: Lunch Break 
-1:00 PM - 2:00 PM: Labyrinth Walking Reflection & Group Debrief/Discussion by Steph Viruet, Academic Success Coordinator 
-2:00 PM - 2:15 PM: Break 
-2:15 PM - 4:00 PM: Project work continuation, finalizing presentations   
-4:00 PM - 5:00 PM: Project presentations, feedback, and closing remarks  
+9:00 AM - 12:00 PM: Working on a real-life data analysis project using R    
+12:00 PM - 1:00 PM: Lunch Break   
+1:00 PM - 2:00 PM: Labyrinth Walking Reflection & Group Debrief/Discussion by Steph Viruet, Academic Success Coordinator   
+2:00 PM - 2:15 PM: Break   
+2:15 PM - 4:00 PM: Project work continuation, finalizing presentations     
+4:00 PM - 5:00 PM: Project presentations, feedback, and closing remarks    
 
  
