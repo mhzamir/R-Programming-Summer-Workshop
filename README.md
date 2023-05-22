@@ -9,7 +9,7 @@ The R Programming Summer Workshop is an intensive learning program designed to p
 10:15 AM - 10:30 AM: Break   
 10:30 AM - 12:00 PM: Introduction to R and its benefits for data analysis. Installation and setup of R and RStudio. Familiarization with RStudio interface   
 12:00 PM - 1:00 PM: Lunch Break   
-1:00 PM - 2:30 PM: Basic R programming concepts: data types, variables and assignment, arithmetic operations, introduction to functions 
+1:00 PM - 2:30 PM: Basic R programming concepts: data types, variables and assignment, arithmetic operations, introduction to functions   
 2:30 PM - 2:45 PM: Break     
 2:45 PM - 4:00 PM: Working with vectors and matrices, and basic data structures in R   
 4:00 PM - 5:00 PM: Practice exercises to reinforce learning   
